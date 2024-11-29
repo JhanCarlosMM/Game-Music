@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES6", // Versión de ECMAScript
+    "module": "ES6", // Tipo de módulos
+    "outDir": "./dist", // Carpeta de salida
+    "strict": true // Reglas estrictas de TypeScript
+  }
+}
